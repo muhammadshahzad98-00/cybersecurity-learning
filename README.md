@@ -23,5 +23,5 @@ This repository documents my hands-on cybersecurity learning using TryHackMe.
 - TryHackMe
 
 ## Progress
-- Started: [3rd april 2026]
+- Started: [3rd April 2026]
 - Goal: Become a Cybersecurity Analyst
