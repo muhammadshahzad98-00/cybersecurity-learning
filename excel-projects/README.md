@@ -1,6 +1,8 @@
 # Excel Projects
 
-## 1. Budget Tracker
+This folder contains hands-on Excel projects demonstrating data analysis and spreadsheet skills.
+
+## 1. Budget Tracker (Monthly Finance Analysis)
 
 **Description:**
 Created a monthly budget tracker to calculate income, expenses, and disposable income.
