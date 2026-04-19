@@ -31,3 +31,18 @@ Created an inventory tracking spreadsheet to monitor devices and summarise total
 - Excel formulas (SUM)
 - Data grouping and categorisation
 - Spreadsheet organisation
+
+## 3. Sales Analysis Dashboard
+
+**Description:**
+Created a sales dataset and visualised product performance using charts.
+
+**What I did:**
+- Organised sales data by product
+- Calculated total sales per product
+- Created chart to visualise sales performance
+
+**Skills used:**
+- Excel formulas (SUM)
+- Data grouping
+- Data visualisation (charts)
