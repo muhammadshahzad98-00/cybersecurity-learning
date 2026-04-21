@@ -46,3 +46,20 @@ Created a sales dataset and visualised product performance using charts.
 - Excel formulas (SUM)
 - Data grouping
 - Data visualisation (charts)
+
+## 5. Smart Sales System (XLOOKUP & IF)
+
+**Description:**
+Built a smart Excel system to automate pricing and classify sales performance.
+
+**What I did:**
+- Created product and order tables
+- Used XLOOKUP to fetch prices automatically
+- Calculated totals based on quantity
+- Used IF statements to categorise sales
+
+**Skills used:**
+- XLOOKUP
+- IF statements
+- Data automation
+- Spreadsheet design
