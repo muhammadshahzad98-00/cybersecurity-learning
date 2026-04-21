@@ -80,3 +80,27 @@ Built a smart Excel system to automate pricing and classify sales performance.
 - IF statements
 - Data automation
 - Spreadsheet design
+
+## 6. Interactive Sales Dashboard
+
+**Description:**
+Built an interactive Excel dashboard to analyse sales performance.
+
+**What I did:**
+
+* Created a clean dataset with product and order tables
+* Used XLOOKUP to combine data
+* Calculated totals and sales metrics
+* Built Pivot Tables for analysis
+* Created charts to visualise sales
+* Added slicers for interactive filtering
+
+**Skills used:**
+
+* XLOOKUP
+* Pivot Tables
+* Data visualisation
+* Dashboard creation
+* Data analysis
+
+- 
