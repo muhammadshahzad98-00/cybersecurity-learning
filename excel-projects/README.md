@@ -47,6 +47,23 @@ Created a sales dataset and visualised product performance using charts.
 - Data grouping
 - Data visualisation (charts)
 
+## 4. Sales Dashboard (Excel)
+
+**Description:**
+Created a sales dashboard using pivot tables and charts to analyse product, region, and monthly trends.
+
+**What I did:**
+- Built dataset with sales data
+- Used pivot tables to summarise data
+- Created charts (column, pie, line)
+- Designed a simple dashboard layout
+
+**Skills used:**
+- Pivot Tables
+- Data analysis
+- Data visualisation
+- Dashboard design
+
 ## 5. Smart Sales System (XLOOKUP & IF)
 
 **Description:**
